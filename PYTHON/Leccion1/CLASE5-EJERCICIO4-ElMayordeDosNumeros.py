@@ -1,4 +1,5 @@
-#EJERCICIO: El mayor de dos números
+#CLASE 5
+#EJERCICIO 4: El mayor de dos números
 numero1 = int(input('Digite el valor para el numero1: '))
 numero2 = int(input('Digite el valor para el numero2: '))
 

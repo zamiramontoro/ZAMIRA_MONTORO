@@ -1,4 +1,5 @@
-#EJERCICIO: Tienda de Libros
+#CLASE 5
+#EJERCICIO 5: Tienda de Libros
 print('Digite los siguientes datos del libro')
 nombre = input('Digite el nombre del libro: ')
 id = input('Digite el id del libro: ')

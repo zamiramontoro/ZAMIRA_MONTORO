@@ -1,4 +1,5 @@
-# EJERCICIO: valor dentro de un rango
+#CLASE 5
+#EJERCICIO 1: valor dentro de un rango
 valor = int(input("Digite un número dentro del rango o al 5: "))
 valorMinimo = 0
 valorMaximo = 5

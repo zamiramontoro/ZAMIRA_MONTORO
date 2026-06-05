@@ -1,4 +1,5 @@
-#EJERCICIO Con el operador or, Operador Not
+#CLASE 5
+#EJERCICIO 2: Con el operador or, Operador Not
 vacaciones = True
 diaDescanso = True
 if not (vacaciones or diaDescanso):
