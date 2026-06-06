@@ -1,33 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2d11a992-d191-4819-ae23-d8386c714b4c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Leccion1/CLASE3_EJERCICIO1_CalificaTuDia.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leccion1/CLASE3_EJERCICIO2_Libro.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leccion1/miVariable.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leccion2/CLASE7-CICLO_WHILE_y_FOR.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leccion2/CLASE7-EJERCICIO-CicloFor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leccion2/CLASE7-EJERCICIO-ImprimirDel0al5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leccion2/CLASE7-EJERCICIO3-EstaciónDelAño.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leccion2/CLASE7-EJERCICIO4-EtapasDeLaVida.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leccion2/CLASE7-EJERCICIO5-SistemaDeCalificaciones.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leccion2/CLASE8-EJERCICIO1_AÑO_BISIESTO.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leccion2/CLASE8-EJERCICIO2_SUMA_DE_N_NUMEROS.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leccion2/CLASE8-EJERCICIO3_Leer_10_números.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leccion2/CLASE8-EJERCICIO4_Calificaciones.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leccion1/ElMayordeDosNumeros.py" beforeDir="false" afterPath="$PROJECT_DIR$/Leccion1/CLASE5-EJERCICIO4-ElMayordeDosNumeros.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leccion1/Or_Not.py" beforeDir="false" afterPath="$PROJECT_DIR$/Leccion1/CLASE5-EJERCICIO2-Or_Not.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leccion1/RangoEdades20y30.py" beforeDir="false" afterPath="$PROJECT_DIR$/Leccion1/CLASE5-EJERCICIO3-RangoEdades20y30.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leccion1/TiendaDeLibros.py" beforeDir="false" afterPath="$PROJECT_DIR$/Leccion1/CLASE5-EJERCICIO5-TiendaDeLibros.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leccion1/ValorDentroDeUnRango.py" beforeDir="false" afterPath="$PROJECT_DIR$/Leccion1/CLASE5-EJERCICIO1-ValorDentroDeUnRango.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leccion2/Ejercicio1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Leccion2/CLASE6-Ejercicio1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leccion2/Ejercicio2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Leccion2/CLASE6-Ejercicio2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leccion2/Ejercicio3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Leccion2/CLASE6-Ejercicio3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leccion2/Ejercicio4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Leccion2/CLASE6-Ejercicio4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leccion2/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Leccion2/CLASE6-SENTENCIA_IF-ELSE-main.py" afterDir="false" />
-    </list>
+    <list default="true" id="2d11a992-d191-4819-ae23-d8386c714b4c" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
