@@ -34,9 +34,9 @@ console.log(_1num)
 console.log(rompiendo)
 
 //Hoy ya no se usa var, se utiliza let y const
-let nombre2 = "Pedro";
-console.log(nombre2);
+let nombre3 = "Pedro";
+console.log(nombre3);
 
-const apellido2 = "Lepes";
+const apellido3 = "Lepes";
 // epellido2 = "Perez"; una constante no puede ser modificada
-console.log(apellido2);
+console.log(apellido3);

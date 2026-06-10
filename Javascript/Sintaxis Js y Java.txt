@@ -59,3 +59,7 @@ Operadores Relacionales (Booleanos)
 <
 >=
 <=
+
+Operadores Lógicos
+And -> && Doble aspersan
+Or  -> 
