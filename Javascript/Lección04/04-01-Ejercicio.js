@@ -6,21 +6,48 @@ console.log(fechaNacimiento1);
 
 /* fechaNacimiento = 2003;
 /* console.log(fechaNacimiento); // solo se ejecuta console anteior
+
 /*
 Evitar repetir tu código
 DRY (Don't Repeat Yourself)
 */
 
-let days = [
-    'Lunes', 'Martes', 'Miércoles', 'Jueves', 'Viernes', 'Sábado', 'Domingo'
-];
+// let days = ['Lunes', 'Martes', 'Miércoles', 'Jueves', 'Viernes', 'Sábado', 'Domingo'];
+let days = "Sábado";
+switch (days){
+    case "Lunes":
+        console.log("hoy es "+days)
+        break;
+    case "Martes":
+        console.log("hoy es "+days)
+        break;
+    case "Miercoles":
+        console.log("hoy es "+days)
+        break;
+    case "Jueves":
+        console.log("hoy es "+days)
+        break;
+    case "Viernes":
+        console.log("hoy es "+days)
+        break;
+    case "Sábado":
+        console.log("hoy es "+days)
+        break;
+    case "Domingo":
+        console.log("hoy es "+days)
+        break;
+    default:
+        console.log("Error en el ingreso del día de la semana")
+}
 
+//Esta es la opción mejorada
+
+let days2 = ['Lunes', 'Martes', 'Miércoles', 'Jueves', 'Viernes', 'Sábado', 'Domingo'];
 function getDay(n) {
     if (n < 1 || n > 7) {
         throw new Error('out of range');
     }
-
-    return days[n - 1];
+    return days2[n - 1];
 }
 
 try {
