@@ -1,3 +1,36 @@
+/*const se utiliza para valores constantes que no
+pueden ser reasignados*/
+
+const fechaNacimiento1 = 2006;
+console.log(fechaNacimiento1);
+
+/* fechaNacimiento = 2003;
+/* console.log(fechaNacimiento); // solo se ejecuta console anteior
+/*
+Evitar repetir tu código
+DRY (Don't Repeat Yourself)
+*/
+
+let days = [
+    'Lunes', 'Martes', 'Miércoles', 'Jueves', 'Viernes', 'Sábado', 'Domingo'
+];
+
+function getDay(n) {
+    if (n < 1 || n > 7) {
+        throw new Error('out of range');
+    }
+
+    return days[n - 1];
+}
+
+try {
+    console.log(getDay(1)); // Lunes
+    console.log(getDay(5)); // Viernes
+    console.log(getDay(8)); // Error
+} catch (err) {
+    console.log(err.message);
+}
+
 // Ampliando el uso de var let y const
 /*
 Con var puedes reasignar en cualquier momento
@@ -36,7 +69,7 @@ function saludar2(){
 //console.log(nombre2);
 
 if(true){
-    let edad2 = 33;
+    var edad2 = 33;
     console.log(edad2);
 }
 console.log(edad2);
