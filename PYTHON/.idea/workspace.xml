@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2d11a992-d191-4819-ae23-d8386c714b4c" name="Changes" comment="" />
+    <list default="true" id="2d11a992-d191-4819-ae23-d8386c714b4c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Leccion2/CLASE9-EJERCICIO5(1)-FactorialDeUnNum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leccion2/CLASE9-EJERCICIO6(2)-IngresarNEnteros.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leccion2/CLASE9-EJERCICIO7(3)-DadasLasHorasTrabajadas.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,51 +37,54 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.CLASE3_EJERCICIO1_CalificaTuDia.executor&quot;: &quot;Run&quot;,
-    &quot;Python.CLASE3_EJERCICIO2_Libro.executor&quot;: &quot;Run&quot;,
-    &quot;Python.CLASE5-EJERCICIO2-Or_Not.executor&quot;: &quot;Run&quot;,
-    &quot;Python.CLASE7-CICLO_WHILE_y_FOR.executor&quot;: &quot;Run&quot;,
-    &quot;Python.CLASE7-EJERCICIO-CicloFor.executor&quot;: &quot;Run&quot;,
-    &quot;Python.CLASE7-EJERCICIO-ImprimirDel0al5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.CLASE7-EJERCICIO3-EstaciónDelAño.executor&quot;: &quot;Run&quot;,
-    &quot;Python.CLASE7-EJERCICIO4-EtapasDeLaVida.executor&quot;: &quot;Run&quot;,
-    &quot;Python.CLASE7-EJERCICIO5-SistemaDeCalificaciones.executor&quot;: &quot;Run&quot;,
-    &quot;Python.CLASE8-EJERCICIO1_AÑO_BISIESTO.executor&quot;: &quot;Run&quot;,
-    &quot;Python.CLASE8-EJERCICIO2_SUMA_DE_N_NUMEROS.executor&quot;: &quot;Run&quot;,
-    &quot;Python.CLASE8-EJERCICIO3_Leer_10_números.executor&quot;: &quot;Run&quot;,
-    &quot;Python.CLASE8-EJERCICIO4_Calificaciones.executor&quot;: &quot;Run&quot;,
-    &quot;Python.CLASE8-EJERCICIO_AÑO_BISIESTO.executor&quot;: &quot;Run&quot;,
-    &quot;Python.EJERCICIO1_CalificaTuDia.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Ejercicio1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Ejercicio2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Ejercicio3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Ejercicio4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ElMayordeDosNumeros.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Or_Not.executor&quot;: &quot;Run&quot;,
-    &quot;Python.RangoEdades20y30.executor&quot;: &quot;Run&quot;,
-    &quot;Python.TiendaDeLibros.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ValorDentroDeUnRango.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Valor_dentro _de _un _rango.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.miVariable.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/smchi/ZAMIRA_MONTORO/PYTHON&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.CLASE3_EJERCICIO1_CalificaTuDia.executor": "Run",
+    "Python.CLASE3_EJERCICIO2_Libro.executor": "Run",
+    "Python.CLASE5-EJERCICIO2-Or_Not.executor": "Run",
+    "Python.CLASE7-CICLO_WHILE_y_FOR.executor": "Run",
+    "Python.CLASE7-EJERCICIO-CicloFor.executor": "Run",
+    "Python.CLASE7-EJERCICIO-ImprimirDel0al5.executor": "Run",
+    "Python.CLASE7-EJERCICIO3-EstaciónDelAño.executor": "Run",
+    "Python.CLASE7-EJERCICIO4-EtapasDeLaVida.executor": "Run",
+    "Python.CLASE7-EJERCICIO5-SistemaDeCalificaciones.executor": "Run",
+    "Python.CLASE8-EJERCICIO1_AÑO_BISIESTO.executor": "Run",
+    "Python.CLASE8-EJERCICIO2_SUMA_DE_N_NUMEROS.executor": "Run",
+    "Python.CLASE8-EJERCICIO3_Leer_10_números.executor": "Run",
+    "Python.CLASE8-EJERCICIO4_Calificaciones.executor": "Run",
+    "Python.CLASE8-EJERCICIO_AÑO_BISIESTO.executor": "Run",
+    "Python.CLASE9-EJERCICIO5(1)-FactorialDeUnNum.executor": "Run",
+    "Python.CLASE9-EJERCICIO6(2)-IngresarNEnteros.executor": "Run",
+    "Python.CLASE9-EJERCICIO7(3)-DadasLasHorasTrabajadas.executor": "Run",
+    "Python.EJERCICIO1_CalificaTuDia.executor": "Run",
+    "Python.Ejercicio1.executor": "Run",
+    "Python.Ejercicio2.executor": "Run",
+    "Python.Ejercicio3.executor": "Run",
+    "Python.Ejercicio4.executor": "Run",
+    "Python.ElMayordeDosNumeros.executor": "Run",
+    "Python.Or_Not.executor": "Run",
+    "Python.RangoEdades20y30.executor": "Run",
+    "Python.TiendaDeLibros.executor": "Run",
+    "Python.ValorDentroDeUnRango.executor": "Run",
+    "Python.Valor_dentro _de _un _rango.executor": "Run",
+    "Python.main (1).executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.miVariable.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/smchi/ZAMIRA_MONTORO/PYTHON",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager" selected="Python.Valor_dentro _de _un _rango">
+}]]></component>
+  <component name="RunManager">
     <configuration name="CLASE6-SENTENCIA_IF-ELSE-main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PYTHON" />
       <option name="ENV_FILES" value="" />
