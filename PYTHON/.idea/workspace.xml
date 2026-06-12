@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2d11a992-d191-4819-ae23-d8386c714b4c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Leccion2/CLASE9-EJERCICIO5(1)-FactorialDeUnNum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leccion2/CLASE9-EJERCICIO6(2)-IngresarNEnteros.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leccion2/CLASE9-EJERCICIO7(3)-DadasLasHorasTrabajadas.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
