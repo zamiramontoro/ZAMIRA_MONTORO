@@ -1,15 +1,17 @@
 
-public class HolaMundo {
-
-    public static void main(String[] args) {
-        /*System.out.println("Hola Mundo desde Java");
+public class CLASE05_InferenciaPasoaPaso {
+    public static void main(String[] args) 
+    {
+        //Inferencia de tipos var y tipos primitivos
+        var numEntero = 20; // Las literales sin punto automaticamente son de tipo int
+        System.out.println("numEntero = " + numEntero);
+        var numfloat = 10.0F; //Automaticamente con el punto se transforma en tipo double
+        System.out.println("numfloat = " + numfloat);
+        var numDouble = 10.0;
+        System.out.println("numDouble = " + numDouble);
         
-      
-         */
-   
-                          
         //Tipos primitivos char
-        /*char miVariableChar = 'a';
+        char miVariableChar = 'a';
         System.out.println("miVariableChar = " + miVariableChar );
         
         char varCaracter = '\u0024'; //Indicamos a Java la asignación con el código unicode
@@ -29,10 +31,6 @@ public class HolaMundo {
         int varEnteroChar = '$';
         System.out.println("varEnteroChar = " + varEnteroChar);
         int caracterChar = 'b';
-        System.out.println("caracterChar = " + caracterChar);*/
-        
-        //Tipos primitivos tipos booleanos
-        
-        
+        System.out.println("caracterChar = " + caracterChar);
     }
 }
