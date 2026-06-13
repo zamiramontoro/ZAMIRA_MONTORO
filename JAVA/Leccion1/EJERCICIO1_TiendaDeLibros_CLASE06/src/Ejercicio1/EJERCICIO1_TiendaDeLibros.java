@@ -3,7 +3,7 @@ package Ejercicio1;
 
 import java.util.Scanner;
 
-public class Ejercicio1 {
+public class EJERCICIO1_TiendaDeLibros {
     public static void main(String[] args) {
         Scanner entrada = new Scanner(System.in);
         System.out.println("Digite el nombre del libro: ");
