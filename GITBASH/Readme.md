@@ -1097,13 +1097,13 @@ Para los que les cuesta, ¿Qué es una ruta? respondamos entre todos... pasar pr
 
 Pasamos a ver -> Cómo generar tus llaves SSH:
 
-a. Generar tus llaves SSH**
+* a. Generar tus llaves SSH**
 
 Recuerda que es muy buena idea proteger tu llave privada con una contraseña, lo hacemos de nuevo para repasar como se hace, esto es para que controles que has hecho todo bien:
 
 ssh-keygen -t rsa -b 4096 -C "tu@email.com"
 
-b. Terminar de configurar nuestro sistema.
+* b. Terminar de configurar nuestro sistema.
 
 En Windows y Linux:
 
@@ -1116,7 +1116,6 @@ Añadir tu llave SSH a este “servidor”:
 ssh-add ruta-donde-guardaste-tu-llave-privada
 
 En Mac:
-
 
 Encender el “servidor” de llaves SSH de tu computadora:
 
@@ -1140,6 +1139,7 @@ Por último les quiero hablar del 2FA: Segundo Factor de Autenticación. Este se
 
 Para añadir un 2FA:
 
+```sh
 1. Clic en nuestro perfil, arriba y a la derecha, seleccionamos...
 
 2. Settings
@@ -1160,3 +1160,4 @@ Es recomendable iniciar sesión, osea registrarnos y guardar estos datos para qu
 La tarea de hoy, agregar esta clase al README.md con el lenguaje de markdown, como lo hicimos en la clase pasada, luego deben hacer el commit correspondiente al cambio agregado, esto dentro de la carpeta git o class-git, segun el nombre que hayas elegido, ahí debe estar el README.md con todos los comandos, con todas las clases que hemos hecho.
 
 Revisar y ejecutar cada comando, hacerlo como practica.
+```sh 
