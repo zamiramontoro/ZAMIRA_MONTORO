@@ -1105,7 +1105,7 @@ ssh-keygen -t rsa -b 4096 -C "tu@email.com"
 
 * b. Terminar de configurar nuestro sistema.
 
-En Windows y Linux:
+# En Windows y Linux:
 
 Encender el “servidor” de llaves SSH de tu computadora:
 
@@ -1115,7 +1115,7 @@ Añadir tu llave SSH a este “servidor”:
 
 ssh-add ruta-donde-guardaste-tu-llave-privada
 
-En Mac:
+# En Mac:
 
 Encender el “servidor” de llaves SSH de tu computadora:
 
@@ -1123,6 +1123,7 @@ eval "$(ssh-agent -s)"
 
 Si usas una versión de OSX superior a Mac Sierra (v10.12), debes crear o modificar un archivo “config” en la carpeta de tu usuario con el siguiente contenido (ten cuidado con las mayúsculas): vim config
 
+```sh
 Host *
 
 AddKeysToAgent yes
@@ -1134,6 +1135,7 @@ IdentityFile ruta-donde-guardaste-tu-llave-privada
 Añadir tu llave SSH al “servidor” de llaves SSH de tu computadora (en caso de error puedes ejecutar este mismo comando pero sin el argumento -K):
 
 ssh-add -K ruta-donde-guardaste-tu-llave-privada
+```
 
 Por último les quiero hablar del 2FA: Segundo Factor de Autenticación. Este se puede hacer con varios dispositivos, y deberías hacerlo, ante el robo o perdida de un celular o ordenador, deberías tener un respaldo ante esto, este 2FA se puede hacer con diferentes generadores de códigos  de seguridad.
 
