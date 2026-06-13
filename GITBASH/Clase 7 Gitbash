@@ -1,12 +1,9 @@
 CLASE 7 MIÉRCOLES 27 DE MAYO DEL 2026
 Git reset vs. Git rm parte 7
 
-
 Los comandos git reset y git rm tienen utilidades muy diferentes, pero pueden confundirse fácilmente.
 
-
 GIT RESET
-
 
 El comando git reset es una herramienta poderosa que te permite deshacer o revertir cambios en tu repositorio de Git. Lo puedes ejecutar de tres maneras diferentes, con las líneas de commando --soft, --mixed y --hard.
 

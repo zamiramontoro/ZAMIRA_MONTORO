@@ -778,11 +778,9 @@ La tarea de hoy, agregar esta clase al README.md con el lenguaje de markdown, co
 
 Estos comandos de fusión del merge afectan solo a la rama actual y no a la rama de destino. Por lo tanto, te recomendamos utilizar git checkout para seleccionar la rama actual y git branch -d para eliminar la rama de destino obsoleta.
 
-
 ## Funcionamiento de Git merge
 
 Git merge fusiona secuencias de confirmaciones en un solo historial, generalmente para combinar dos ramas. Busca una confirmación de base común y genera una confirmación de fusión que representa la combinación de las dos ramas hasta el resultado final.
-
 
 ## ¿Cómo unir dos ramas en git?
 
