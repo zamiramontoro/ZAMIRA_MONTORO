@@ -19,6 +19,65 @@ public class CLASE07_OperadoresDeAsignación {
         varNum1 %= 6;
         System.out.println("varNum1 = " + varNum1);*/
         
+        //       Operdores aritméticos
+        /*int num1 = 6 , num2 = 4; //No se puede asignar valor con la inferencia de tipo
+          var solucion = num1 + num2;
+         //System.out.println( num1 + num2);
+          System.out.println("Solucion de la suma = " + solucion);
+ 
+          
+          solucion = num1 - num2;
+          System.out.println("Solucion de la resta = " + solucion);
+          
+          solucion = num1 * num2;
+          System.out.println("solucion de la multiplicacion es = " + solucion);
+          
+          solucion = num1 / num2;
+          System.out.println("solucion de la division es = " + solucion);
+          
+          var solucion2 = 3.4 / num2;
+          System.out.println("Solucion2 resultado de la division ="+solucion2);
+          
+          solucion = num1 % num2; //guarda el residuo entero de la division
+          System.out.println("solucion = " + solucion);
+          
+          
+          if (num1 % 2 == 0)
+              System.out.println("El numero es PAR");
+          else
+              System.out.println("El numero es IMPAR");
+          //aqui en esta estructura no se utiliza llave
+          //solamente se hace un bloque de código
+          //suma
+          int varNum1 = 1, varNum2 = 4;
+          int varNum3 = varNum1 + 6 - varNum2;
+          System.out.println("varNum3 = "+ varNum3);
+              //1+6-4=3
+          varNum1 += 1; //varNum1 + varNum1 + 1;
+          System.out.println("varNum1 = " + varNum1);
+          
+          //resta
+          int varNum4 = 1, varNum5 = 4;
+          int varNum6 = varNum4 - 6 - varNum5;
+          System.out.println("varNum6 = "+ varNum6);
+              //1 - 6 - 4 = -9
+          varNum4 -= 1; //varNum4 + varNum4 + 1;
+          System.out.println("varNum4 = " + varNum4);
+         
+          //multiplicacion
+          int varNum7 = 1, varNum8 = 4;
+          int varNum9 = varNum7 * 6 * varNum8;
+          System.out.println("varNum9 = " + varNum9);
+          varNum7 *= 1;
+          System.out.println("varNum9 = " + varNum9);
+          
+          //division
+          int varNum10 = 60, varNum11 = 4;
+          int varNum12 = varNum10 / 6 / varNum11;
+          System.out.println("varNum12 = " + varNum12);
+          varNum10 %= 6; 
+          System.out.println("varNum12 = " + varNum12);*/
+        
         //Operadores Unarios: Cambio de signo
         /*var varA = 7;
         var varB = -varA;
