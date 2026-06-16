@@ -1,134 +1,111 @@
-/JAVA/HolaMundo/nbproject/private/
-/JAVA/HolaMundo/build/
-/JAVA/New Folder/HolaMundo/nbproject/private/
-/JAVA/Leccion1/HolaMundo/nbproject/private/
-/JAVA/Leccion1/HolaMundo/build/
-/JAVA/Leccion1/EJERCICIO5/nbproject/private/
-/JAVA/Leccion1/EJERCICIO5/build/
-/JAVA/Leccion1/EJERCICIO6/nbproject/private/
-/JAVA/Leccion1/EJERCICIO6/build/
-/JAVA/Leccion1/Ejercicio_7/nbproject/private/
-/JAVA/Leccion1/Ejercicio_7/build/
-/JAVA/Leccion1/HolaMundo/dist/
-/JAVA/Leccion1/EJERCICIO_1_TiendaDeLibros/nbproject/private/
-/JAVA/Leccion1/EJERCICIO_1_TiendaDeLibros/build/
-/JAVA/Leccion1/EjercicioRectangulo/build/
-/JAVA/Leccion1/EjercicioRectangulo/nbproject/private/
-/JAVA/Leccion1/EJERCICIORectangulo_/build/
-/JAVA/Leccion1/EJERCICIORectangulo_/nbproject/private/
-/JAVA/Leccion1/EJERCICIORectangulo_CLASE07/build/
-/JAVA/Leccion1/EJERCICIORectangulo_CLASE07/nbproject/private/
-/JAVA/Leccion1/Ejercicio3/build/
-/JAVA/Leccion1/Ejercicio3/nbproject/private/
-/JAVA/Leccion1/EJERCICIO_02_/build/
-/JAVA/Leccion1/EJERCICIO_02_/nbproject/private/
-/JAVA/Leccion1/EJERCICIO_02_ElMayorDeDosNúmeros_CLASE07/build/
-/JAVA/Leccion1/EJERCICIO_02_ElMayorDeDosNúmeros_CLASE07/nbproject/private/
-/JAVA/Leccion1/EJERCICIO_01_Rectangulo_CLASE07/build/
-/JAVA/Leccion1/EJERCICIO_01_Rectangulo_CLASE07/nbproject/private/
-/JAVA/Leccion1/EJERCICIO5_CLASE08/nbproject/private/
-/JAVA/Leccion1/EJERCICIO6_CLASE08/nbproject/private/
-/JAVA/Leccion1/EJERCICIO7_CLASE08/build/
-/JAVA/Leccion1/EJERCICIO7_CLASE08/nbproject/private/
-/JAVA/Leccion1/Leccion2/build/
-/JAVA/Leccion1/Leccion2/nbproject/private/
-/JAVA/Leccion1/CondicionalEjercicio1/build/
-/JAVA/Leccion1/CondicionalEjercicio1/nbproject/private/
-/JAVA/Leccion1/EJERCICIO1_Rectangulo_CLASE07/build/
-/JAVA/Leccion1/EJERCICIO1_Rectangulo_CLASE07/nbproject/private/
-/JAVA/Leccion1/EJERCICIO2_ElMayorDeDosNúmeros_CLASE07/build/
-/JAVA/Leccion1/EJERCICIO2_ElMayorDeDosNúmeros_CLASE07/nbproject/private/
-/JAVA/Leccion1/EJERCICIO1_TiendaDeLibros/build/
-/JAVA/Leccion1/EJERCICIO1_TiendaDeLibros/nbproject/private/
-/JAVA/Leccion1/EJERCICIO1_TiendaDeLibros_CLASE06/build/
-/JAVA/Leccion1/EJERCICIO1_TiendaDeLibros_CLASE06/nbproject/private/
-/JAVA/Leccion1/CondicionalEjercicio2/build/
-/JAVA/Leccion1/CondicionalEjercicio2/nbproject/private/
-/JAVA/Leccion1/CondicionalEjercicio3/build/
-/JAVA/Leccion1/CondicionalEjercicio3/dist/
-/JAVA/Leccion1/CondicionalEjercicio3/nbproject/private/
-/JAVA/Leccion1/CondicionalEjercicio1_CLASE09/build/
-/JAVA/Leccion1/CondicionalEjercicio1_CLASE09/nbproject/private/
-/JAVA/Leccion1/CondicionalEjercicio2_CLASE09/build/
-/JAVA/Leccion1/CondicionalEjercicio2_CLASE09/nbproject/private/
-/JAVA/Leccion1/CondicionalEjercicio3_CLASE09/build/
-/JAVA/Leccion1/CondicionalEjercicio3_CLASE09/dist/
-/JAVA/Leccion1/CondicionalEjercicio3_CLASE09/nbproject/private/
-/JAVA/Leccion1/Pseint1/build/
-/JAVA/Leccion1/Pseint1/dist/
-/JAVA/Leccion1/Pseint1/nbproject/private/
-/JAVA/Leccion1/EJERCICIOSPseint1_CLASE09/build/
-/JAVA/Leccion1/EJERCICIOSPseint1_CLASE09/dist/
-/JAVA/Leccion1/EJERCICIOSPseint1_CLASE09/nbproject/private/
-/JAVA/Leccion1/EjercicioClase10-3/build/
-/JAVA/Leccion1/EjercicioClase10-3/nbproject/private/
-/JAVA/Leccion1/EjercicioClase10-2/build/
-/JAVA/Leccion1/EjercicioClase10-2/dist/
-/JAVA/Leccion1/EjercicioClase10-2/nbproject/private/
-/JAVA/Leccion1/EJERCICIO3_Clase10/build/
-/JAVA/Leccion1/EJERCICIO3_Clase10/nbproject/private/
-/JAVA/Leccion1/EJERCICIO1_CLASE10/build/
-/JAVA/Leccion1/EJERCICIO1_CLASE10/nbproject/private/
-/JAVA/Leccion1/EJERCICIO2_CLASE10/build/
-/JAVA/Leccion1/EJERCICIO2_CLASE10/dist/
-/JAVA/Leccion1/EJERCICIO2_CLASE10/nbproject/private/
-/JAVA/Leccion1/EJERCICIO3_CLASE10/build/
-/JAVA/Leccion1/EJERCICIO3_CLASE10/dist/
-/JAVA/Leccion1/Ejercicio3-Clase10-/nbproject/private/
-/JAVA/Leccion1/Ejercicio3-Clase10-/build/
-.class
-target/
-build/
-.gradle/
-.vscode/
-*.log
-.idea/
+#################################################
+# IntelliJ IDEA / PyCharm
+#################################################
 
-node_modules/
-.env
+.idea/
+*.iml
+out/
+
+#################################################
+# NetBeans
+#################################################
+
+nbproject/private/
+nbbuild/
 dist/
 build/
-coverage/
-*.log
-.vscode/
 
-_pycache_/
-*.pyc
-venv/
-.env
-dist/
-build/
-.pytest_cache/
-.ipynb_checkpoints/
+#################################################
+# Eclipse
+#################################################
 
-.DS_Store
-Thumbs.db
-*.swp
-*.log
-tmp/
-temp/
+.project
+.classpath
+.settings/
 
-# IntelliJ / PyCharm
-.idea/
-
+#################################################
 # Java
+#################################################
+
 *.class
-build/
-target/
-.gradle/
-.idea/
+*.jar
+*.war
+*.ear
+hs_err_pid*
+replay_pid*
 
+#################################################
 # Python
-_pycache_/
-*.pyc
+#################################################
+
+__pycache__/
+*.py[cod]
+*$py.class
+
 venv/
+.venv/
+env/
+ENV/
 
-# JavaScript
+.pytest_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+
+#################################################
+# JavaScript / Node.js
+#################################################
+
 node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
 
-# Logs
-*.log
+#################################################
+# Visual Studio Code
+#################################################
 
-# Sistema
+.vscode/
+
+#################################################
+# Sistema Operativo
+#################################################
+
 .DS_Store
 Thumbs.db
+desktop.ini
+
+#################################################
+# Archivos temporales
+#################################################
+
+*.tmp
+*.temp
+*.swp
+*.bak
+*.log
+
+#################################################
+# Archivos de configuración local
+#################################################
+
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+#################################################
+# Archivos de compilación
+#################################################
+
+target/
+bin/
+obj/
+
+#################################################
+# Archivos de usuario
+#################################################
+
+*.orig
+*.rej
