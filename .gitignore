@@ -76,3 +76,59 @@
 /JAVA/Leccion1/EJERCICIO3_CLASE10/dist/
 /JAVA/Leccion1/Ejercicio3-Clase10-/nbproject/private/
 /JAVA/Leccion1/Ejercicio3-Clase10-/build/
+.class
+target/
+build/
+.gradle/
+.vscode/
+*.log
+.idea/
+
+node_modules/
+.env
+dist/
+build/
+coverage/
+*.log
+.vscode/
+
+_pycache_/
+*.pyc
+venv/
+.env
+dist/
+build/
+.pytest_cache/
+.ipynb_checkpoints/
+
+.DS_Store
+Thumbs.db
+*.swp
+*.log
+tmp/
+temp/
+
+# IntelliJ / PyCharm
+.idea/
+
+# Java
+*.class
+build/
+target/
+.gradle/
+.idea/
+
+# Python
+_pycache_/
+*.pyc
+venv/
+
+# JavaScript
+node_modules/
+
+# Logs
+*.log
+
+# Sistema
+.DS_Store
+Thumbs.db
