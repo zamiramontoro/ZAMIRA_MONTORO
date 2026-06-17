@@ -109,3 +109,6 @@ obj/
 
 *.orig
 *.rej
+# NetBeans private
+**/nbproject/private/
+**/nbproject/private/**
