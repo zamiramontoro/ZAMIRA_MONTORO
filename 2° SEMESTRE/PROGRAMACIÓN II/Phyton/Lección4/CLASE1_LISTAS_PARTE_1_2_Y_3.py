@@ -54,10 +54,42 @@ print(nombres)
 
 # Eliminar la lista
 del nombres
-print(nombres) # Aquí nos mostrará un error
+# print(nombres) # Aquí nos mostrará un error
 
 # Verificamos como trabajar día a día en git
 
+# Definimos una tupla
+cocina = ('cuchara', 'cuchillo', 'tenedor')
+print(len(cocina))
+
+# Tupla sigue el orden de los elementos que se agregan no se pueden eliminar son inmutables
+cocina = ('cuchara','cuchillo','tenedor')
+print(cocina)
+
+print(len(cocina))
+
+# Acceder a un elemento, para esto utilizamos corchetes no parentesis
+print(cocina[0])
+# Mostrar de manera inversa
+print(cocina[-1])
+
+# Como acceder a un rango
+print(cocina[0:2])
+
+# La tupla necesita la coma si o si despues de un elemento
+
+verdura = ('papa') #si no tiene coma es sting tipo cadena
+
+# Recorremos los elementos de la tupla
+for cocinar in cocina: #print esta usando \n para saltos de lineas
+    print(cocinar, end=' ') # Usamos end = para eliminar los saltos de líneas
+
+cocinaLista = list(cocina)
+cocinaLista[0] = 'Plato'
+cocina = tuple(cocinaLista)
+print('\n', cocina)
+
+# del cocina # esto es para eliminar una tupla
 
 
 
