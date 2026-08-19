@@ -1,5 +1,5 @@
-LECTURA 1-A MIÉRCOLES 10 DE JUNIO DEL 2026
-Cómo funcionan las llaves públicas y privadas
+# LECTURA 1-A MIÉRCOLES 10 DE JUNIO DEL 2026
+## Cómo funcionan las llaves públicas y privadas
 
 Sección lectura
 
@@ -24,8 +24,8 @@ La tarea de hoy, agregar esta clase al README.md con el lenguaje de markdown, co
 
 Revisar y ejecutar cada comando, hacerlo como practica.
 
-LECTURA 1-B MIÉRCOLES 10 DE JUNIO DEL 2026
-Configura tus llaves SSH en local
+# LECTURA 1-B MIÉRCOLES 10 DE JUNIO DEL 2026
+## Configura tus llaves SSH en local
 
 
 Si usamos GitHub solo con usuario y contraseña, si un día perdemos nuestra PC, perdemos todo, nuestras contraseñas y los proyectos de nuestros clientes están todos en riesgo. Esta es la forma en que muchos sitios web son jackeados, para evitar esto tenemos que agregar una capa de seguridad mucho más fuerte. Es aquí donde podemos comenzar a crear el entorno con llaves publicas y privadas. Esto tiene una ventaja, no solo es que nuestra seguridad será más fuerte, si no que ya no tendrás que poner nunca más tu usuario y contraseña.

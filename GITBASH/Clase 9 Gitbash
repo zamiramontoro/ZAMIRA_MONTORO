@@ -256,3 +256,13 @@ git merge master #Ahora pasamos los cambios a la rama second.
 ```
 
 La tarea de hoy, agregar esta clase al README.md con el lenguaje de markdown, como lo hicimos en la clase pasada, luego deben hacer el commit correspondiente al cambio agregado.
+
+RESPUESTA 11 
+
+# PIP es el gestor de paquetes por defecto de Python.
+
+Las siglas PIP significan "Pip Installs Packages" o "Pip Installs Python", aunque también es conocido por el nombre de "Python Package Index", ya que está directamente conectado al repositorio pypi.org, que es el repositorio de paquetes más grande del mundo para Python.
+
+PIP se instala automáticamente cuando instalas Python en tu servidor, hosting u ordenador, por lo que no necesitas instalarlo por separado. Básicamente, PIP es la herramienta que te permite instalar, gestionar, actualizar y desinstalar paquetes o módulos de Python de forma simple.
+
+PIP permite gestionar las dependencias y la paquetería de tu proyecto desarrollando en Python. Es fundamental para la instalación y gestión de todas estas dependencias y paquetes.
