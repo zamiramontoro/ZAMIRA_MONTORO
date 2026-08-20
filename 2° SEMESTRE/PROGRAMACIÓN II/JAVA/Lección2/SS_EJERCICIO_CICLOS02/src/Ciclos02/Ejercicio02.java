@@ -1,6 +1,7 @@
 /*
  EJERCICIO 2: Leer un número e indicar si es positivo o negativo.
  El proceso se repetirá hasta que se introduzca un cero 0
+Hacer este ejercicio con la clase Scanner, luego hacerlo nuevamente con la clase JOptionPane
  */
 package Ciclos02;
 
