@@ -1,20 +1,65 @@
 <!DOCTYPE html>
+<!-- Comentario en html -->
+<!--
+     comentarios múltiples
+-->
+<!DOCTYPE html>
+<!--Declaración del tipo de documento, especifica que se trata de un documento HTML5 -->
 <html lang="en">
+<!--Elemento raíz del documento HTML. El atributo lang="en" indica que el idioma del contenido es inglés. -->
 <head>
+    <!--Contiene metadatos y enlaces a recursos externos, no se muestra directamente en la página -->
     <meta charset="UTF-8">
+    <!--Declara la codificación de caracteres del documento como UTF-8, lo que permite usar una amplia variedad de caracteres.  -->
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!--Configura la ventana gráfica para el diseño responsivo.
+        width=device-with establece el ancho de la página para que coincida con el ancho del dispositivo.
+        initial-scale=1.0 establece el nivel del zoom inicial cuando la página se carga  -->
+
+    <!--Agregamos dos etiquetas meta para el Seo -->
+    <meta name="description" content="Nombre del Grupo o Alumno, creado por nombre del grupo especializa en [Programación]">
+    <meta name="keywords" content="portafolio,desarrollador web, [programador], proyectos, contacto">
+    <meta name="author" content="Zamira"
+
     <title>Portafolio web</title>
-    <link rel="stylesheet" href="./style.css">
+    <!--Define el titulo del documento, que se muestra en la pestaña del navegador o en los resultados de búsqueda-->
+    <link rel="stylesheet" href="./Css/style.css">
+    <!--Enlace a una hoja de estilos externa.
+        href="./style.css" especifica la ubicación del archivo CSS. -->
 </head>
 <body>
+    <!-- Cuerpo del documento, contiene el contenido visible para los usuarios -->
     <header>
-        <h1>Zamira Montoro - Ingeniera Industrial</h1>
+        <!-- Sección de cabecera de la página, generalmente contiene logotipos, navegación y títulos. -->
+        <h1>Zamira Montoro - Técnica en Programación</h1>
+        <!-- Encabezado principal de la página, típicamente usado para el título o nombre del sitio. -->
         <nav>
+            <!-- Elemento de navegación, contiene enlaces a otras partes de la página o a otras páginas. -->
             <ul class="navigation">
+                <!-- Lista no ordenada, contiene elementos de navegación.
+                     class="navegation" aplica estilos definidos en CSS a esta lista. -->
                 <li><a href="#sobremi">Sobre Mi</a></li>
+                <!-- Elemento de lista que contiene un enlace,
+                     href="#sobremi" apunta a un ancla dentro de la misma página con el id="sobremi". -->
+                <li><a href="#experiencia">Experiencia</a></li>
+                <li><a href="#estudios"> Mis Estudios</a></li>
                 <li><a href="#proyectos">Proyectos</a></li>
+                <!-- Otro elemento de lista con un enlace.
+                    href="#proyectos" apunta a un ancla dentro de la misma página con el id="proyectos". -->
+                <li><a href="#contacto">Contactame</a></li>
             </ul>
         </nav>
     </header>
+    <main>
+        <section class="sobremi">
+            <article class="container-sobremi">
+                <h2>
+                    Soy <b>Estudiante de la Tecnicatura en Progaramación</b>, de la Universidad Tecnológica Nacional (UTN) - FrSR, Argentina.
+                    Mi objetivo es ser Desarrolladora Web apasionada por la creación de aplicaciones eficientes y fáciles de usar.
+                    Cuento con conocimientos sólidos en JavaScript, React y Node.js
+                </h2>
+            </article>
+        </section>
+    </main>
 </body>
 </html>
