@@ -91,6 +91,30 @@ print('\n', cocina)
 
 # del cocina # esto es para eliminar una tupla
 
+# Tipo set
+planetas = {"Marte", "Júpiter", "Venus"}
+print(len(planetas)) # Usamos la función len = length significa largo
+
+# Revisar si un elemento existe dentro de set
+print("Júpiter" in planetas)
+
+# Agregar un elemento
+planetas.add("Tierra") # add es una función
+print(planetas)
+
+# Eliminar elementos, puede arrojar un error si el elemento no exite
+planetas.remove("Júpiter") # Esta función ante un mal ingreso u inexistencia del elemento da error
+print(planetas)
+planetas.discard("Tierra") # Esta función no nos presenta ningún tipo de error
+print(planetas)
+
+# Limpiar set o conjunto
+planetas.clear()
+print(planetas)
+
+#Eliminar set
+del planetas
+print(planetas) # al eliminar nos muestra un error
 
 
 
