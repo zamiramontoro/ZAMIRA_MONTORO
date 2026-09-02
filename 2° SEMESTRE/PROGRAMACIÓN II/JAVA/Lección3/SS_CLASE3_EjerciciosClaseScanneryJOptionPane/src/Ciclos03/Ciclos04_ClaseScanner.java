@@ -8,7 +8,7 @@ package Ciclos03;
 
 import java.util.Scanner;
 
-public class Ejercicio04 {
+public class Ciclos04_ClaseScanner {
     public static void main(String[] args) {
         Scanner entrada = new Scanner(System.in);
         

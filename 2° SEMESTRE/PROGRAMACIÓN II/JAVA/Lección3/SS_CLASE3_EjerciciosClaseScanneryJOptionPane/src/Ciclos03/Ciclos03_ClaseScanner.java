@@ -8,7 +8,7 @@ package Ciclos03;
 
 import java.util.Scanner;
 
-public class Ejercicio03 {
+public class Ciclos03_ClaseScanner {
     public static void main(String[] args) {
         Scanner entrada = new Scanner(System.in);
         System.out.println("Digite un número: ");

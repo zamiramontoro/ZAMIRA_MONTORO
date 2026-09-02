@@ -9,7 +9,7 @@ package Ciclos03;
 
 import javax.swing.JOptionPane;
 
-public class Ciclos05 {
+public class Ciclos05_JOptionPane {
     public static void main(String[] args) {
 
         // Generamos un número aleatorio entre 0 y 100

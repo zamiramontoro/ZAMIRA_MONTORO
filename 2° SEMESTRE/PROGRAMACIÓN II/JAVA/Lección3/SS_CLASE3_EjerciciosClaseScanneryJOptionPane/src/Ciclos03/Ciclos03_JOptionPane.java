@@ -8,7 +8,7 @@ package Ciclos03;
 
 import javax.swing.JOptionPane;
 
-public class Ciclo03 {
+public class Ciclos03_JOptionPane {
     public static void main(String[] args) {
       var numero = Integer.parseInt(JOptionPane.showInputDialog("Digite un número: "));
       while(numero != 0){
