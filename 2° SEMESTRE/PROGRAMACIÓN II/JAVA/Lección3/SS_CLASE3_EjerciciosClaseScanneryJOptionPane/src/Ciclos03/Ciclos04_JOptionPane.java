@@ -8,7 +8,7 @@ package Ciclos03;
 
 import javax.swing.JOptionPane;
 
-public class Ciclos04 {
+public class Ciclos04_JOptionPane {
      public static void main(String[] args) {
          
       int numero;
