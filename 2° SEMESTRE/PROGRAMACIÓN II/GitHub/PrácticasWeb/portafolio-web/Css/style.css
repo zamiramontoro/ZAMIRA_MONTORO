@@ -4,11 +4,23 @@
 Comentario múltiple
 línea
 */
+:root {
+    --body-bg-color: rgb(43,43,70);
+    --text-color: white;
+    --colorh1-color: rgb(215, 211, 211);
+}
+/*Aplicando variable creada en el root al body de nuestra web*/
+/*Reemplazamos el body con el uso de variables css*/
 body{
     background:rgb(103, 123, 123);
     color:black;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
 }
+
+h1, h2 {
+    color: var(--colorh1-color);
+}
+
 /*título del Header*/
 header{ 
     display: flex; 
@@ -22,7 +34,7 @@ titulo{
     align-items: center; 
     padding: 1rem 3rem; 
 } 
- 
+/*Barra de navegación*/ 
 .navigation { 
     display: flex;          /* Coloca los elementos uno al lado del otro */ 
     justify-content: flex-end; /* Los lleva hacia la derecha */ 
@@ -88,6 +100,27 @@ a{
     background-color: rgb(37, 81, 77);
     border-radius: 1rem;
     box-shadow: 0 0 1rem rgba(0, 0, 0, 0.5);
+    gap: 5rem;
+    align-items: center;
+}
+.img-perfil{
+    border-radius: 50%;
+}
+
+.experiencia, .estudios{
+    display: flex;
+    justify-content: center;
+    padding: 2rem;
+    color:azure;
+}
+
+.container-experiencia, .container-estudios{
+    width: 100%;
+    padding: 2rem;
+    margin-top: 5rem;
+    line-height: 2.5rem;
+    font-size: large;
+    margin: 8rem;
 }
 
 /* Cuerpo de la página*/
@@ -128,6 +161,18 @@ body {
     margin-top: 1rem; /*margen a lo alto*/
     line-height: 2.5rem; /* espaciado entre los párrafos del texto*/
     font-size: small; /* tamaño de la fuente */
+    flex-direction: column;
+    }
+    /*Agregamos el responsivo de las secciones experiencia y estudios*/
+    .container-experiencia, .container-estudios{
+        width: 100%;
+        margin: 0rem;
+    }
+    .experiencia, .estudios {
+        width: 100%;
+        padding: 1rem;
+        margin-top: 1rem;
+        font-size: small;
     }
 }
 
@@ -139,6 +184,10 @@ body {
     .navigation{
         gap: 2rem;
         justify-content: center;
+    }
+    /*Agregamos el responsivo de las secciones experiencia y estudios*/
+    .experiencia, .estudios{
+        width: 75%;
     }
 }
 
@@ -152,4 +201,7 @@ body {
         justify-content: flex-end;
         margin: 0 3rem;
     }
+    /*Agregamos el responsivo de las secciones experiencia y estudios*/
+    .experiencia, .estudios{
+        width: 75%;
 }
